@@ -2,7 +2,7 @@
 
 Calculate Body Mass Index with metric and imperial unit support, category classification, and a healthy weight range, entirely in the browser.
 
-**Live Demo:** https://file-converter-free.com/en/calculators/bmi-calculator
+**Live Demo:** https://file-converter-free.com/en/calculators/bmi-calculator-online
 
 ## How It Works
 
